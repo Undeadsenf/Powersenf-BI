@@ -1,0 +1,184 @@
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Powersenf BI.exe.config
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Powersenf BI.exe
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Powersenf BI.pdb
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Azure.Core.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\MaterialSkin.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Graph.Core.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Validators.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Abstractions.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Authentication.Azure.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Form.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Json.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Multipart.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Text.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\MySqlConnector.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Std.UriTemplate.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Buffers.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.ClientModel.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Memory.Data.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Memory.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Text.Json.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.ValueTuple.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Azure.Core.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Graph.Core.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Validators.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Abstractions.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Authentication.Azure.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Form.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Json.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Multipart.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Text.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\MySqlConnector.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Buffers.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.ClientModel.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Memory.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Memory.Data.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Net.Http.WinHttpHandler.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Text.Encodings.Web.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Text.Json.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.ValueTuple.xml
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.AssemblyReference.cache
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.Properties.Resources.resources
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.GenerateResource.cache
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.CoreCompileInputs.cache
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.CopyComplete
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.exe
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.pdb
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\CsvHelper.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\CsvHelper.xml
+D:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.MainForm.resources
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCAbout.resources
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCHome.resources
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCOpen.resources
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCChart.resources
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCDbConnection.resources
+D:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCDbQueryLoad.resources
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Powersenf BI.exe.config
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Powersenf BI.exe
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Powersenf BI.pdb
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Azure.Core.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\CsvHelper.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\MaterialSkin.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Graph.Core.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Validators.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Abstractions.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Authentication.Azure.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Form.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Json.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Multipart.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Text.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\MySqlConnector.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Std.UriTemplate.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Buffers.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.ClientModel.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Memory.Data.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Memory.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Net.Http.WinHttpHandler.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Numerics.Vectors.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Text.Encodings.Web.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Text.Json.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.ValueTuple.dll
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Azure.Core.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\CsvHelper.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Graph.Core.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.IdentityModel.Validators.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Abstractions.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Authentication.Azure.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Form.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Json.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Multipart.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\Microsoft.Kiota.Serialization.Text.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\MySqlConnector.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Buffers.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.ClientModel.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Memory.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Memory.Data.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Net.Http.WinHttpHandler.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Numerics.Vectors.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Text.Encodings.Web.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Text.Json.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Projects\Powersenf BI\Powersenf BI\bin\Debug\System.ValueTuple.xml
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.AssemblyReference.cache
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.SuggestedBindingRedirects.cache
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.MainForm.resources
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.Properties.Resources.resources
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCAbout.resources
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCChart.resources
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCDbConnection.resources
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCHome.resources
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCOpen.resources
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\PowerSenfBiApp.UCDbQueryLoad.resources
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.GenerateResource.cache
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.CoreCompileInputs.cache
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.csproj.CopyComplete
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.exe
+F:\Projects\Powersenf BI\Powersenf BI\obj\Debug\Powersenf BI.pdb

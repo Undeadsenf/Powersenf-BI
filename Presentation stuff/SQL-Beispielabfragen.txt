@@ -1,0 +1,31 @@
+Teuerste 10 Meeresfrüchte 
+
+SELECT artikelname, kategoriename, einzelpreis FROM artikel 
+INNER JOIN artikelkategorien ON kategorieID = kategorieNr 
+WHERE kategoriename = "Meeresfrüchte"  
+ORDER BY einzelpreis DESC
+LIMIT 10;
+
+
+Erste 10 Artikel und ihr Preis
+
+SELECT artikelname, preis FROM artikel LIMIT 10;
+
+Top 10 bestellte Artikel
+
+SELECT artikelname, SUM(anzahl) AS gesamtanzahl 
+FROM artikel 
+INNER JOIN bestellungendetails ON artikelnr = artikelid 
+WHERE anzahl > 50 
+GROUP BY artikelname 
+LIMIT 10;
+
+
+top 10 bestellte Artikel von Kunden aus Brasilien:
+
+SELECT land, sum(anzahl) as gesamtanzahl, artikelname FROM artikel 
+INNER JOIN bestellungendetails ON ArtikelID = ArtikelNr 
+INNER JOIN bestellungen ON BestellNr = BestellID 
+INNER JOIN kunden ON KundenNr = KundenID WHERE Land = "Brasilien" 
+GROUP BY land, artikelname 
+ORDER BY gesamtanzahl DESC limit 10;

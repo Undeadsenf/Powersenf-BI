@@ -1,0 +1,129 @@
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\ProdukteVerwaltungApp.exe.config
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\ProdukteVerwaltungApp.exe
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\ProdukteVerwaltungApp.pdb
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\MaterialSkin.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.Properties.Resources.resources
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.CopyComplete
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.exe
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.pdb
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.MainForm.resources
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCHome.resources
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCAbout.resources
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\MySqlConnector.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Buffers.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Memory.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\MySqlConnector.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Buffers.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Memory.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCProdukt.resources
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCUpdate.resources
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCCreate.resources
+C:\Users\IT\Desktop\c sharp\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCDelete.resources
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\ProdukteVerwaltungApp.exe.config
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\ProdukteVerwaltungApp.exe
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\ProdukteVerwaltungApp.pdb
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Azure.Core.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\MaterialSkin.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Graph.Core.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Graph.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Validators.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Abstractions.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Authentication.Azure.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Serialization.Form.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Serialization.Json.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Serialization.Multipart.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Serialization.Text.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\MySqlConnector.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Std.UriTemplate.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Buffers.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.ClientModel.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Memory.Data.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Memory.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Text.Json.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.ValueTuple.dll
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Azure.Core.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Graph.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Graph.Core.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.IdentityModel.Validators.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Abstractions.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Authentication.Azure.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Serialization.Form.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Serialization.Json.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Serialization.Multipart.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\Microsoft.Kiota.Serialization.Text.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\MySqlConnector.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Buffers.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.ClientModel.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Memory.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Memory.Data.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Net.Http.WinHttpHandler.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Text.Encodings.Web.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Text.Json.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\bin\Debug\System.ValueTuple.xml
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.AssemblyReference.cache
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.SuggestedBindingRedirects.cache
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.MainForm.resources
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.Properties.Resources.resources
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCAbout.resources
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCCreate.resources
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCDelete.resources
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCHome.resources
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCProdukt.resources
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.UCUpdate.resources
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.GenerateResource.cache
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.CoreCompileInputs.cache
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.csproj.CopyComplete
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.exe
+D:\Projects\ProdukteVerwaltungApp\ProdukteVerwaltungApp\obj\Debug\ProdukteVerwaltungApp.pdb
